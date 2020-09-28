@@ -1,0 +1,27 @@
+body{background-image: url(img/popo.jpg);}
+
+header {width:100%; height: 200px;}
+
+header img{width: 100%; height: 150px; border-bottom: 3px solid
+    black;} 
+    #h1{width: 100%; min-height: 100px;
+        background-image: linear-gradient(to left,
+        orange,yellow,orange);text-align: center; font-size: 28px;}
+
+        #h2{background-image: linear-gradient(
+            to right, orange,rgb(63, 204, 204),orange        );
+        text-align: center; }
+        #h3{text-align: center;width: 100%;}
+        #ok{width: 70%; height: 40px; font-size: 20px; 
+        border-radius: 20px;}
+        #ok:hover{background-color: red; text-decoration: underline;}
+
+div{text-align: center;}
+        input{width: 40%;height: 40px; text-align: center;border-radius: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px; opacity: 0.8;}
+        input:hover{opacity: 1;}
+        #oka{width: 120px; height: 40px; font-size: 20px;
+        border-radius: 20px;}
+        #oka:hover{background-color: red; text-decoration: underline;}
+        
